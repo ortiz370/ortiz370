@@ -1,3 +1,4 @@
+[![MasterHead](https://www.bmtraders.com/images/Database/Database-5.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Donte Ortiz</h1>
 <h3 align="center">A Data Analyst passionate about Cloud Computing from Arizona</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
