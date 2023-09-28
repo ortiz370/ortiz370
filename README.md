@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AZURE Resume Challange**
 
-- 🌱 I’m currently learning **AWS,Azure,Pyspark**
+- 🌱 I’m currently learning **AWS,Azure**
 
 - 📫 How to reach me **cras.dortiz@gmail.com**
 
